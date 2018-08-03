@@ -1,0 +1,16 @@
+Training shape:  (307511, 1946)
+Testing shape:  (48744, 1946)
+Starting PCA
+Training: PCA: 37.31 seconds.
+Testing: PCA: 0.49 seconds.
+Starting ICA
+Training: ICA: 497.59 seconds.
+Testing: ICA: 0.73 seconds.
+Starting UMAP
+Training: UMAP: 7887.68 seconds.
+Testing: UMAP: 528.42 seconds.
+Starting UMAP_LABELS
+Training: UMAP_LABELS: 13455.28 seconds.
+Testing: UMAP_LABELS: 616.61 seconds.
+Starting TSNE
+Training: TSNE: 30231.22 seconds.
